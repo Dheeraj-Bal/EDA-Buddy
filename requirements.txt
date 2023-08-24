@@ -32,7 +32,7 @@ networkx==3.1
 numpy==1.23.5
 packaging==23.1
 pandas==2.0.3
-pandas-profiling==3.2.0
+pandas-profiling
 patsy==0.5.3
 phik==0.12.3
 Pillow==9.5.0
@@ -75,5 +75,5 @@ validators==0.21.2
 visions==0.7.5
 watchdog==3.0.0
 wordcloud==1.9.2
-ydata-profiling==4.5.1
+ydata-profiling
 zipp==3.16.2
